@@ -1,6 +1,6 @@
 # BD Zé Delivery
 
-** Visão Geral
+## Visão Geral
 
 Este repositório contém o design de um banco de dados para a disciplina de Banco de Dados, o qual simula o aplicativo de delivery ("ZéDelivery"). Diagrama criado utilizando a ferramenta [Draw.io](https://app.diagrams.net/).
 

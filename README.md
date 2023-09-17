@@ -11,5 +11,3 @@ Se você deseja contribuir para o design ou aprimorar o banco de dados, sinta-se
 ## Autor
 
 Este design de banco de dados foi criado por Carlos Fernandino.
-
-BD Zé Delivery.drawio (3).png
